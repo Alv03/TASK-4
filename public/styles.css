@@ -1,0 +1,25 @@
+
+  
+  body {
+    font-family: "Times New Roman", sans-serif;
+    color: rgb(0, 0, 0);
+    background: #db9f9f;
+    
+  }
+  
+  .container {
+    margin: 1%;
+    text-align: center;
+  }
+  
+  input {
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.2); 
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    margin:1px;
+    display:center;  
+  }
+  
+ 
+  
